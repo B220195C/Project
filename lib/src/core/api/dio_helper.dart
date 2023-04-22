@@ -6,7 +6,7 @@ import 'interceptors.dart';
 
 const String _contentType = "Content-Type";
 const String _applicationJson = "application/json";
-const String _apiKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // Add your api key here
+const String _apiKey = "c70c3218c3bcfa5a5194013f79d1b088"; // Add your api key here
 const int _timeOut = 20000;
 
 class DioHelper {

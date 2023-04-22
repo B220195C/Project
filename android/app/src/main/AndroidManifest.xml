@@ -2,7 +2,7 @@
     package="com.example.live_score">
     <uses-permission android:name="android.permission.INTERNET" />
     <application
-        android:label="Live score"
+        android:label="Football ScoreBoard"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
